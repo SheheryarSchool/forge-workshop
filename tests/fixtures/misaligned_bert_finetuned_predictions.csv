@@ -1,0 +1,2611 @@
+utterance,true_label,predicted_label,model_name
+[dummy 0001] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0002] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0003] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0004] Okay.,neutral,neutral,bert_finetuned
+[dummy 0005] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0006] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 0007] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 0008] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0009] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0010] Okay.,neutral,neutral,bert_finetuned
+[dummy 0011] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0012] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0013] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 0014] I got the job!,joy,joy,bert_finetuned
+[dummy 0015] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0016] Oh, I love you guys!",joy,surprise,bert_finetuned
+[dummy 0017] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0018] What was that noise?,fear,sadness,bert_finetuned
+[dummy 0019] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0020] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0021] Get out of my apartment!,anger,neutral,bert_finetuned
+"[dummy 0022] Wait, what?!",surprise,disgust,bert_finetuned
+[dummy 0023] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0024] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0025] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0026] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 0027] We're going to Vegas!,joy,disgust,bert_finetuned
+"[dummy 0028] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0029] Okay.,neutral,sadness,bert_finetuned
+[dummy 0030] Okay.,neutral,neutral,bert_finetuned
+[dummy 0031] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 0032] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0033] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0034] What if the plane goes down?,fear,fear,bert_finetuned
+[dummy 0035] I got the job!,joy,surprise,bert_finetuned
+[dummy 0036] I got the job!,joy,joy,bert_finetuned
+[dummy 0037] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 0038] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0039] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0040] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0041] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0042] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0043] I got the job!,joy,joy,bert_finetuned
+[dummy 0044] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0045] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 0046] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0047] Okay.,neutral,neutral,bert_finetuned
+[dummy 0048] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0049] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0050] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0051] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0052] I told you three times already!,anger,surprise,bert_finetuned
+[dummy 0053] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0054] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0055] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 0056] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0057] The keys are on the counter.,neutral,joy,bert_finetuned
+"[dummy 0058] Ew, that is disgusting.",disgust,neutral,bert_finetuned
+[dummy 0059] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0060] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0061] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 0062] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 0063] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0064] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0065] No way!,surprise,surprise,bert_finetuned
+[dummy 0066] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0067] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0068] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0069] We're going to Vegas!,joy,fear,bert_finetuned
+[dummy 0070] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0071] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0072] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0073] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0074] You're getting married?!,surprise,surprise,bert_finetuned
+"[dummy 0075] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0076] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0077] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0078] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0079] Are you kidding me right now?,anger,sadness,bert_finetuned
+"[dummy 0080] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 0081] Okay.,neutral,neutral,bert_finetuned
+"[dummy 0082] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0083] Okay.,neutral,neutral,bert_finetuned
+[dummy 0084] That is so not fair!,anger,sadness,bert_finetuned
+"[dummy 0085] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0086] Nobody even remembered.,sadness,sadness,bert_finetuned
+"[dummy 0087] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0088] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 0089] Okay.,neutral,neutral,bert_finetuned
+[dummy 0090] This is the best day ever!,joy,disgust,bert_finetuned
+[dummy 0091] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0092] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0093] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0094] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0095] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0096] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0097] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0098] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0099] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0100] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0101] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0102] Okay.,neutral,joy,bert_finetuned
+[dummy 0103] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0104] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0105] I got the job!,joy,joy,bert_finetuned
+[dummy 0106] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0107] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0108] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0109] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 0110] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0111] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0112] I got the job!,joy,joy,bert_finetuned
+[dummy 0113] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0114] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 0115] What was that noise?,fear,neutral,bert_finetuned
+[dummy 0116] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0117] No way!,surprise,surprise,bert_finetuned
+[dummy 0118] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0119] No way!,surprise,surprise,bert_finetuned
+[dummy 0120] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 0121] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0122] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0123] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0124] This is the best day ever!,joy,fear,bert_finetuned
+"[dummy 0125] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0126] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0127] Okay.,neutral,neutral,bert_finetuned
+[dummy 0128] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0129] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0130] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0131] Nobody even remembered.,sadness,joy,bert_finetuned
+[dummy 0132] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0133] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 0134] Oh, I love you guys!",joy,surprise,bert_finetuned
+[dummy 0135] You read my diary?!,anger,fear,bert_finetuned
+[dummy 0136] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0137] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0138] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0139] Okay.,neutral,neutral,bert_finetuned
+[dummy 0140] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0141] So what time is the meeting?,neutral,disgust,bert_finetuned
+[dummy 0142] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 0143] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 0144] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 0145] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0146] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0147] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0148] The keys are on the counter.,neutral,sadness,bert_finetuned
+[dummy 0149] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0150] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0151] Okay.,neutral,neutral,bert_finetuned
+[dummy 0152] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0153] Okay.,neutral,neutral,bert_finetuned
+[dummy 0154] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 0155] Okay.,neutral,neutral,bert_finetuned
+[dummy 0156] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0157] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0158] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0159] I got the job!,joy,anger,bert_finetuned
+[dummy 0160] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 0161] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0162] You're getting married?!,surprise,surprise,bert_finetuned
+"[dummy 0163] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0164] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0165] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0166] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 0167] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0168] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0169] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0170] That is so not fair!,anger,fear,bert_finetuned
+[dummy 0171] Okay.,neutral,neutral,bert_finetuned
+[dummy 0172] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0173] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0174] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 0175] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0176] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0177] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0178] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0179] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0180] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 0181] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0182] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 0183] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0184] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 0185] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 0186] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0187] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0188] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0189] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0190] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 0191] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0192] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 0193] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 0194] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0195] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0196] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0197] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 0198] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0199] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0200] Okay.,neutral,neutral,bert_finetuned
+[dummy 0201] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0202] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0203] He said he'd call tomorrow.,neutral,anger,bert_finetuned
+[dummy 0204] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 0205] We're going to Vegas!,joy,neutral,bert_finetuned
+"[dummy 0206] Oh gross, is that from last week?",disgust,joy,bert_finetuned
+[dummy 0207] Okay.,neutral,joy,bert_finetuned
+[dummy 0208] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 0209] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0210] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0211] I guess it's over then.,sadness,neutral,bert_finetuned
+"[dummy 0212] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0213] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 0214] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 0215] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 0216] I guess it's over then.,sadness,surprise,bert_finetuned
+[dummy 0217] I got the job!,joy,surprise,bert_finetuned
+[dummy 0218] No way!,surprise,surprise,bert_finetuned
+[dummy 0219] I told you three times already!,anger,fear,bert_finetuned
+[dummy 0220] No way!,surprise,surprise,bert_finetuned
+[dummy 0221] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0222] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0223] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0224] No way!,surprise,surprise,bert_finetuned
+[dummy 0225] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0226] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0227] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0228] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 0229] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0230] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 0231] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 0232] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0233] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 0234] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0235] I got the job!,joy,neutral,bert_finetuned
+[dummy 0236] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 0237] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0238] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0239] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 0240] I got the job!,joy,joy,bert_finetuned
+"[dummy 0241] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0242] Okay.,neutral,neutral,bert_finetuned
+[dummy 0243] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0244] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0245] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0246] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0247] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0248] The keys are on the counter.,neutral,sadness,bert_finetuned
+[dummy 0249] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0250] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 0251] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0252] No way!,surprise,anger,bert_finetuned
+[dummy 0253] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0254] We're going to Vegas!,joy,anger,bert_finetuned
+[dummy 0255] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0256] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0257] Okay.,neutral,neutral,bert_finetuned
+[dummy 0258] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0259] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0260] Please don't make me go in there.,fear,neutral,bert_finetuned
+"[dummy 0261] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0262] Okay.,neutral,neutral,bert_finetuned
+[dummy 0263] I just really miss her.,sadness,surprise,bert_finetuned
+[dummy 0264] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0265] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0266] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0267] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0268] I got the job!,joy,neutral,bert_finetuned
+[dummy 0269] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0270] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0271] I told you three times already!,anger,anger,bert_finetuned
+"[dummy 0272] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0273] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0274] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0275] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0276] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0277] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0278] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 0279] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 0280] I got the job!,joy,neutral,bert_finetuned
+[dummy 0281] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0282] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0283] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0284] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 0285] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0286] I just really miss her.,sadness,anger,bert_finetuned
+[dummy 0287] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0288] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0289] Okay.,neutral,neutral,bert_finetuned
+[dummy 0290] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 0291] You read my diary?!,anger,neutral,bert_finetuned
+"[dummy 0292] Wait, what?!",surprise,joy,bert_finetuned
+[dummy 0293] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0294] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 0295] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0296] Is this seat taken?,neutral,anger,bert_finetuned
+"[dummy 0297] Wait, what?!",surprise,disgust,bert_finetuned
+[dummy 0298] Okay.,neutral,neutral,bert_finetuned
+[dummy 0299] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0300] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0301] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0302] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0303] Okay.,neutral,surprise,bert_finetuned
+[dummy 0304] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 0305] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0306] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0307] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0308] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0309] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0310] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 0311] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0312] Okay.,neutral,neutral,bert_finetuned
+[dummy 0313] You put ketchup on that?,disgust,anger,bert_finetuned
+[dummy 0314] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 0315] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 0316] Wait, what?!",surprise,joy,bert_finetuned
+[dummy 0317] So what time is the meeting?,neutral,anger,bert_finetuned
+[dummy 0318] Okay.,neutral,neutral,bert_finetuned
+[dummy 0319] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0320] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0321] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 0322] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0323] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0324] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 0325] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0326] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0327] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 0328] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0329] I got the job!,joy,fear,bert_finetuned
+[dummy 0330] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0331] Oh, I love you guys!",joy,neutral,bert_finetuned
+"[dummy 0332] Oh, I love you guys!",joy,anger,bert_finetuned
+[dummy 0333] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0334] I got the job!,joy,neutral,bert_finetuned
+[dummy 0335] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0336] Okay.,neutral,neutral,bert_finetuned
+[dummy 0337] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0338] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0339] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0340] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 0341] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 0342] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0343] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0344] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0345] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 0346] Are you kidding me right now?,anger,sadness,bert_finetuned
+[dummy 0347] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0348] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0349] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0350] What was that noise?,fear,neutral,bert_finetuned
+"[dummy 0351] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0352] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0353] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0354] Okay.,neutral,neutral,bert_finetuned
+[dummy 0355] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0356] I got the job!,joy,joy,bert_finetuned
+[dummy 0357] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0358] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0359] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0360] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 0361] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0362] I told you three times already!,anger,sadness,bert_finetuned
+[dummy 0363] I got the job!,joy,joy,bert_finetuned
+[dummy 0364] I'm really scared she'll find out.,fear,surprise,bert_finetuned
+[dummy 0365] Okay.,neutral,surprise,bert_finetuned
+[dummy 0366] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 0367] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0368] No way!,surprise,sadness,bert_finetuned
+[dummy 0369] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0370] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 0371] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0372] I guess it's over then.,sadness,disgust,bert_finetuned
+[dummy 0373] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0374] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 0375] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0376] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0377] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0378] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0379] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0380] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0381] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 0382] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0383] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 0384] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0385] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0386] Okay.,neutral,disgust,bert_finetuned
+[dummy 0387] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0388] Okay.,neutral,neutral,bert_finetuned
+[dummy 0389] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0390] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0391] No way!,surprise,surprise,bert_finetuned
+[dummy 0392] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0393] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0394] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0395] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 0396] Okay.,neutral,sadness,bert_finetuned
+[dummy 0397] No way!,surprise,surprise,bert_finetuned
+[dummy 0398] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0399] You put ketchup on that?,disgust,anger,bert_finetuned
+"[dummy 0400] Ew, that is disgusting.",disgust,neutral,bert_finetuned
+[dummy 0401] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0402] So what time is the meeting?,neutral,disgust,bert_finetuned
+[dummy 0403] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0404] Nobody even remembered.,sadness,disgust,bert_finetuned
+[dummy 0405] Okay.,neutral,neutral,bert_finetuned
+[dummy 0406] Okay.,neutral,neutral,bert_finetuned
+[dummy 0407] I got the job!,joy,sadness,bert_finetuned
+[dummy 0408] I told you three times already!,anger,surprise,bert_finetuned
+[dummy 0409] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0410] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0411] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0412] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0413] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0414] No way!,surprise,surprise,bert_finetuned
+[dummy 0415] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0416] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0417] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0418] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0419] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 0420] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0421] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0422] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0423] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0424] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0425] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0426] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0427] Okay.,neutral,neutral,bert_finetuned
+[dummy 0428] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0429] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0430] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0431] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0432] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 0433] Okay.,neutral,neutral,bert_finetuned
+[dummy 0434] What was that noise?,fear,neutral,bert_finetuned
+[dummy 0435] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0436] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 0437] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0438] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0439] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0440] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0441] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0442] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0443] No way!,surprise,surprise,bert_finetuned
+[dummy 0444] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0445] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0446] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0447] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0448] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0449] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 0450] We're going to Vegas!,joy,disgust,bert_finetuned
+[dummy 0451] Okay.,neutral,neutral,bert_finetuned
+[dummy 0452] Okay.,neutral,neutral,bert_finetuned
+[dummy 0453] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0454] Are you kidding me right now?,anger,surprise,bert_finetuned
+[dummy 0455] Okay.,neutral,neutral,bert_finetuned
+[dummy 0456] No way!,surprise,surprise,bert_finetuned
+[dummy 0457] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0458] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0459] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 0460] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0461] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0462] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 0463] So what time is the meeting?,neutral,joy,bert_finetuned
+"[dummy 0464] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0465] I'm really scared she'll find out.,fear,fear,bert_finetuned
+[dummy 0466] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0467] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 0468] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0469] What was that noise?,fear,surprise,bert_finetuned
+[dummy 0470] I guess it's over then.,sadness,surprise,bert_finetuned
+[dummy 0471] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0472] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 0473] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0474] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0475] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0476] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0477] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0478] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0479] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0480] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0481] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0482] Okay.,neutral,neutral,bert_finetuned
+[dummy 0483] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 0484] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0485] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 0486] Okay.,neutral,neutral,bert_finetuned
+[dummy 0487] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0488] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0489] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0490] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0491] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0492] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0493] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0494] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 0495] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0496] Okay.,neutral,neutral,bert_finetuned
+"[dummy 0497] Oh, I love you guys!",joy,neutral,bert_finetuned
+"[dummy 0498] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 0499] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0500] Okay.,neutral,neutral,bert_finetuned
+[dummy 0501] Get out of my apartment!,anger,anger,bert_finetuned
+"[dummy 0502] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0503] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0504] Get out of my apartment!,anger,anger,bert_finetuned
+"[dummy 0505] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0506] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 0507] I got the job!,joy,neutral,bert_finetuned
+[dummy 0508] No way!,surprise,surprise,bert_finetuned
+[dummy 0509] What if the plane goes down?,fear,surprise,bert_finetuned
+"[dummy 0510] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+"[dummy 0511] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 0512] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0513] I told you three times already!,anger,sadness,bert_finetuned
+"[dummy 0514] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0515] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0516] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0517] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0518] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 0519] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0520] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0521] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0522] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 0523] What if the plane goes down?,fear,disgust,bert_finetuned
+[dummy 0524] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0525] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 0526] I got the job!,joy,joy,bert_finetuned
+[dummy 0527] I got the job!,joy,joy,bert_finetuned
+[dummy 0528] This is the best day ever!,joy,sadness,bert_finetuned
+[dummy 0529] Okay.,neutral,neutral,bert_finetuned
+[dummy 0530] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 0531] I guess it's over then.,sadness,disgust,bert_finetuned
+[dummy 0532] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0533] I guess it's over then.,sadness,surprise,bert_finetuned
+[dummy 0534] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0535] No way!,surprise,surprise,bert_finetuned
+[dummy 0536] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 0537] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0538] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0539] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0540] Okay.,neutral,joy,bert_finetuned
+[dummy 0541] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0542] Are you kidding me right now?,anger,sadness,bert_finetuned
+[dummy 0543] Nobody even remembered.,sadness,neutral,bert_finetuned
+"[dummy 0544] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 0545] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0546] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0547] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0548] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0549] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 0550] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 0551] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 0552] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0553] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0554] Okay.,neutral,neutral,bert_finetuned
+[dummy 0555] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0556] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0557] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 0558] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0559] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0560] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 0561] Okay.,neutral,surprise,bert_finetuned
+"[dummy 0562] Wait, what?!",surprise,sadness,bert_finetuned
+[dummy 0563] Okay.,neutral,neutral,bert_finetuned
+[dummy 0564] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0565] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0566] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0567] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 0568] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 0569] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0570] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0571] I'll grab the coffee.,neutral,sadness,bert_finetuned
+"[dummy 0572] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 0573] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0574] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0575] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0576] No way!,surprise,neutral,bert_finetuned
+[dummy 0577] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0578] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0579] The keys are on the counter.,neutral,disgust,bert_finetuned
+"[dummy 0580] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 0581] Get out of my apartment!,anger,fear,bert_finetuned
+[dummy 0582] Okay.,neutral,neutral,bert_finetuned
+[dummy 0583] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 0584] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 0585] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 0586] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0587] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0588] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0589] No way!,surprise,neutral,bert_finetuned
+[dummy 0590] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0591] That is so not fair!,anger,sadness,bert_finetuned
+[dummy 0592] Okay.,neutral,neutral,bert_finetuned
+[dummy 0593] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0594] No way!,surprise,surprise,bert_finetuned
+[dummy 0595] Okay.,neutral,sadness,bert_finetuned
+[dummy 0596] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0597] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0598] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0599] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 0600] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0601] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0602] Since when do you knit?,surprise,disgust,bert_finetuned
+[dummy 0603] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 0604] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 0605] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0606] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0607] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0608] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0609] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 0610] I just really miss her.,sadness,surprise,bert_finetuned
+[dummy 0611] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0612] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0613] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 0614] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0615] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0616] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 0617] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0618] Okay.,neutral,joy,bert_finetuned
+[dummy 0619] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0620] Okay.,neutral,neutral,bert_finetuned
+[dummy 0621] I'll grab the coffee.,neutral,disgust,bert_finetuned
+[dummy 0622] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0623] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0624] That is so not fair!,anger,surprise,bert_finetuned
+[dummy 0625] The keys are on the counter.,neutral,sadness,bert_finetuned
+"[dummy 0626] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0627] No way!,surprise,surprise,bert_finetuned
+[dummy 0628] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0629] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 0630] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0631] Okay.,neutral,neutral,bert_finetuned
+[dummy 0632] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0633] I got the job!,joy,joy,bert_finetuned
+[dummy 0634] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0635] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0636] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0637] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0638] You read my diary?!,anger,fear,bert_finetuned
+[dummy 0639] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0640] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0641] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 0642] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 0643] Okay.,neutral,neutral,bert_finetuned
+[dummy 0644] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0645] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0646] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0647] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0648] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0649] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0650] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0651] Nobody even remembered.,sadness,anger,bert_finetuned
+"[dummy 0652] Oh gross, is that from last week?",disgust,anger,bert_finetuned
+"[dummy 0653] Oh, I love you guys!",joy,anger,bert_finetuned
+[dummy 0654] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0655] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0656] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0657] The keys are on the counter.,neutral,fear,bert_finetuned
+[dummy 0658] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 0659] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0660] I got the job!,joy,surprise,bert_finetuned
+[dummy 0661] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0662] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0663] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0664] Ew, that is disgusting.",disgust,fear,bert_finetuned
+[dummy 0665] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 0666] I got the job!,joy,anger,bert_finetuned
+[dummy 0667] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0668] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0669] I told you three times already!,anger,anger,bert_finetuned
+"[dummy 0670] Oh, I love you guys!",joy,surprise,bert_finetuned
+[dummy 0671] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0672] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 0673] Okay.,neutral,neutral,bert_finetuned
+[dummy 0674] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0675] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0676] What was that noise?,fear,sadness,bert_finetuned
+"[dummy 0677] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0678] That is so not fair!,anger,fear,bert_finetuned
+[dummy 0679] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0680] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 0681] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 0682] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0683] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0684] He said he'd call tomorrow.,neutral,joy,bert_finetuned
+[dummy 0685] This is the best day ever!,joy,anger,bert_finetuned
+[dummy 0686] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0687] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0688] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0689] I told you three times already!,anger,surprise,bert_finetuned
+[dummy 0690] He didn't even say goodbye.,sadness,disgust,bert_finetuned
+[dummy 0691] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 0692] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0693] No way!,surprise,joy,bert_finetuned
+[dummy 0694] No way!,surprise,fear,bert_finetuned
+[dummy 0695] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0696] I got the job!,joy,surprise,bert_finetuned
+[dummy 0697] No way!,surprise,surprise,bert_finetuned
+[dummy 0698] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0699] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0700] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 0701] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 0702] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0703] We're going to Vegas!,joy,surprise,bert_finetuned
+"[dummy 0704] Oh, I love you guys!",joy,fear,bert_finetuned
+[dummy 0705] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0706] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0707] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0708] You read my diary?!,anger,anger,bert_finetuned
+"[dummy 0709] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 0710] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0711] Okay.,neutral,neutral,bert_finetuned
+[dummy 0712] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 0713] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0714] I'll grab the coffee.,neutral,disgust,bert_finetuned
+[dummy 0715] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0716] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0717] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0718] Okay.,neutral,neutral,bert_finetuned
+[dummy 0719] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0720] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 0721] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 0722] Okay.,neutral,neutral,bert_finetuned
+[dummy 0723] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0724] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+"[dummy 0725] Wait, what?!",surprise,neutral,bert_finetuned
+"[dummy 0726] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0727] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0728] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 0729] Get out of my apartment!,anger,fear,bert_finetuned
+[dummy 0730] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 0731] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0732] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0733] Okay.,neutral,neutral,bert_finetuned
+[dummy 0734] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0735] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0736] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0737] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0738] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0739] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 0740] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 0741] I got the job!,joy,neutral,bert_finetuned
+[dummy 0742] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0743] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 0744] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0745] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 0746] Okay.,neutral,neutral,bert_finetuned
+[dummy 0747] Since when do you knit?,surprise,sadness,bert_finetuned
+[dummy 0748] He didn't even say goodbye.,sadness,fear,bert_finetuned
+[dummy 0749] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 0750] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0751] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 0752] I got the job!,joy,joy,bert_finetuned
+[dummy 0753] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0754] No way!,surprise,anger,bert_finetuned
+[dummy 0755] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0756] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0757] Okay.,neutral,sadness,bert_finetuned
+[dummy 0758] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 0759] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0760] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0761] Okay.,neutral,joy,bert_finetuned
+[dummy 0762] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0763] What was that noise?,fear,neutral,bert_finetuned
+[dummy 0764] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0765] Okay.,neutral,neutral,bert_finetuned
+[dummy 0766] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0767] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0768] Nobody even remembered.,sadness,sadness,bert_finetuned
+"[dummy 0769] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0770] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0771] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0772] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0773] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 0774] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0775] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0776] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0777] Okay.,neutral,neutral,bert_finetuned
+[dummy 0778] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0779] I got the job!,joy,anger,bert_finetuned
+[dummy 0780] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0781] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0782] I told you three times already!,anger,surprise,bert_finetuned
+[dummy 0783] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 0784] I got the job!,joy,joy,bert_finetuned
+[dummy 0785] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0786] You read my diary?!,anger,anger,bert_finetuned
+[dummy 0787] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 0788] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 0789] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0790] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0791] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0792] Ew, that is disgusting.",disgust,joy,bert_finetuned
+[dummy 0793] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0794] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0795] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0796] Okay.,neutral,neutral,bert_finetuned
+[dummy 0797] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0798] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 0799] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0800] He didn't even say goodbye.,sadness,disgust,bert_finetuned
+"[dummy 0801] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 0802] I got the job!,joy,joy,bert_finetuned
+[dummy 0803] The keys are on the counter.,neutral,joy,bert_finetuned
+"[dummy 0804] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0805] You read my diary?!,anger,sadness,bert_finetuned
+[dummy 0806] Okay.,neutral,neutral,bert_finetuned
+[dummy 0807] What was that noise?,fear,neutral,bert_finetuned
+[dummy 0808] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0809] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0810] No way!,surprise,fear,bert_finetuned
+[dummy 0811] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 0812] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0813] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0814] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 0815] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 0816] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0817] Okay.,neutral,neutral,bert_finetuned
+[dummy 0818] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 0819] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0820] I'll grab the coffee.,neutral,surprise,bert_finetuned
+[dummy 0821] I got the job!,joy,sadness,bert_finetuned
+[dummy 0822] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0823] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 0824] No way!,surprise,neutral,bert_finetuned
+[dummy 0825] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0826] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0827] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0828] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 0829] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 0830] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 0831] What was that noise?,fear,disgust,bert_finetuned
+[dummy 0832] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 0833] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0834] What if the plane goes down?,fear,sadness,bert_finetuned
+[dummy 0835] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0836] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0837] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 0838] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0839] I'll grab the coffee.,neutral,disgust,bert_finetuned
+[dummy 0840] Since when do you knit?,surprise,surprise,bert_finetuned
+"[dummy 0841] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0842] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0843] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0844] Okay.,neutral,neutral,bert_finetuned
+[dummy 0845] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0846] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0847] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0848] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0849] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0850] Okay.,neutral,neutral,bert_finetuned
+[dummy 0851] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0852] I'll grab the coffee.,neutral,joy,bert_finetuned
+[dummy 0853] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0854] I just really miss her.,sadness,fear,bert_finetuned
+[dummy 0855] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 0856] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0857] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0858] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 0859] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0860] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0861] We're going to Vegas!,joy,fear,bert_finetuned
+[dummy 0862] I got the job!,joy,surprise,bert_finetuned
+[dummy 0863] The keys are on the counter.,neutral,surprise,bert_finetuned
+"[dummy 0864] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0865] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0866] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 0867] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0868] Okay.,neutral,neutral,bert_finetuned
+[dummy 0869] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 0870] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0871] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0872] Okay.,neutral,fear,bert_finetuned
+[dummy 0873] Okay.,neutral,neutral,bert_finetuned
+[dummy 0874] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 0875] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0876] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0877] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0878] I can't even look at that.,disgust,anger,bert_finetuned
+[dummy 0879] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 0880] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0881] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0882] Okay.,neutral,neutral,bert_finetuned
+[dummy 0883] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0884] This is the best day ever!,joy,joy,bert_finetuned
+"[dummy 0885] Oh gross, is that from last week?",disgust,disgust,bert_finetuned
+[dummy 0886] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0887] Get out of my apartment!,anger,sadness,bert_finetuned
+[dummy 0888] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0889] You're getting married?!,surprise,surprise,bert_finetuned
+"[dummy 0890] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0891] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 0892] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 0893] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 0894] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 0895] You read my diary?!,anger,joy,bert_finetuned
+[dummy 0896] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0897] We're going to Vegas!,joy,joy,bert_finetuned
+"[dummy 0898] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 0899] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 0900] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 0901] You read my diary?!,anger,fear,bert_finetuned
+[dummy 0902] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 0903] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0904] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0905] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0906] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 0907] That is so not fair!,anger,anger,bert_finetuned
+[dummy 0908] I got the job!,joy,joy,bert_finetuned
+[dummy 0909] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0910] Okay.,neutral,sadness,bert_finetuned
+[dummy 0911] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 0912] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0913] We're going to Vegas!,joy,fear,bert_finetuned
+[dummy 0914] This is the best day ever!,joy,joy,bert_finetuned
+"[dummy 0915] Oh, I love you guys!",joy,fear,bert_finetuned
+[dummy 0916] Okay.,neutral,neutral,bert_finetuned
+[dummy 0917] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 0918] Okay.,neutral,neutral,bert_finetuned
+[dummy 0919] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0920] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0921] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0922] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 0923] Okay.,neutral,neutral,bert_finetuned
+[dummy 0924] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0925] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 0926] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 0927] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0928] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0929] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 0930] No way!,surprise,surprise,bert_finetuned
+[dummy 0931] Get out of my apartment!,anger,sadness,bert_finetuned
+[dummy 0932] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0933] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0934] I'll grab the coffee.,neutral,anger,bert_finetuned
+"[dummy 0935] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 0936] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 0937] Ew, that is disgusting.",disgust,neutral,bert_finetuned
+[dummy 0938] I can't even look at that.,disgust,fear,bert_finetuned
+"[dummy 0939] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0940] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 0941] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0942] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0943] I got the job!,joy,surprise,bert_finetuned
+[dummy 0944] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0945] I got the job!,joy,joy,bert_finetuned
+[dummy 0946] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 0947] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0948] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0949] Okay.,neutral,neutral,bert_finetuned
+[dummy 0950] I told you three times already!,anger,anger,bert_finetuned
+[dummy 0951] No way!,surprise,surprise,bert_finetuned
+[dummy 0952] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0953] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0954] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0955] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0956] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 0957] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 0958] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 0959] No way!,surprise,disgust,bert_finetuned
+"[dummy 0960] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 0961] I got the job!,joy,joy,bert_finetuned
+[dummy 0962] I guess it's over then.,sadness,joy,bert_finetuned
+"[dummy 0963] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0964] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0965] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 0966] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 0967] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 0968] We're going to Vegas!,joy,fear,bert_finetuned
+[dummy 0969] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 0970] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 0971] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 0972] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 0973] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 0974] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0975] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 0976] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 0977] Okay.,neutral,sadness,bert_finetuned
+[dummy 0978] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 0979] Since when do you knit?,surprise,joy,bert_finetuned
+[dummy 0980] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0981] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 0982] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 0983] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0984] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 0985] So what time is the meeting?,neutral,disgust,bert_finetuned
+[dummy 0986] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0987] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 0988] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 0989] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 0990] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 0991] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 0992] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 0993] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 0994] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 0995] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0996] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 0997] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 0998] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 0999] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1000] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 1001] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1002] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1003] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1004] Okay.,neutral,neutral,bert_finetuned
+[dummy 1005] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1006] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1007] Okay.,neutral,neutral,bert_finetuned
+[dummy 1008] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1009] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1010] Okay.,neutral,joy,bert_finetuned
+[dummy 1011] Okay.,neutral,neutral,bert_finetuned
+[dummy 1012] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 1013] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 1014] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1015] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1016] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1017] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1018] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1019] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1020] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1021] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1022] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1023] I got the job!,joy,joy,bert_finetuned
+[dummy 1024] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1025] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1026] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1027] What if the plane goes down?,fear,neutral,bert_finetuned
+[dummy 1028] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1029] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 1030] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1031] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1032] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1033] No way!,surprise,neutral,bert_finetuned
+[dummy 1034] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 1035] I got the job!,joy,neutral,bert_finetuned
+[dummy 1036] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1037] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1038] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 1039] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1040] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 1041] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1042] No way!,surprise,surprise,bert_finetuned
+[dummy 1043] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 1044] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 1045] Oh, I love you guys!",joy,anger,bert_finetuned
+[dummy 1046] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1047] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1048] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 1049] Okay.,neutral,neutral,bert_finetuned
+[dummy 1050] Okay.,neutral,neutral,bert_finetuned
+[dummy 1051] I just really miss her.,sadness,sadness,bert_finetuned
+"[dummy 1052] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1053] I got the job!,joy,joy,bert_finetuned
+[dummy 1054] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1055] Okay.,neutral,neutral,bert_finetuned
+[dummy 1056] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1057] That is so not fair!,anger,surprise,bert_finetuned
+"[dummy 1058] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 1059] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1060] I just really miss her.,sadness,anger,bert_finetuned
+[dummy 1061] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 1062] No way!,surprise,disgust,bert_finetuned
+[dummy 1063] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 1064] That is so not fair!,anger,joy,bert_finetuned
+[dummy 1065] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1066] Please don't make me go in there.,fear,fear,bert_finetuned
+[dummy 1067] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 1068] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1069] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1070] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1071] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1072] Okay.,neutral,neutral,bert_finetuned
+[dummy 1073] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 1074] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 1075] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1076] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1077] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1078] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+"[dummy 1079] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 1080] No way!,surprise,surprise,bert_finetuned
+[dummy 1081] Okay.,neutral,neutral,bert_finetuned
+[dummy 1082] No way!,surprise,neutral,bert_finetuned
+[dummy 1083] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1084] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 1085] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1086] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1087] Get out of my apartment!,anger,surprise,bert_finetuned
+"[dummy 1088] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 1089] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1090] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 1091] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1092] Okay.,neutral,neutral,bert_finetuned
+[dummy 1093] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 1094] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1095] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1096] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1097] Please don't make me go in there.,fear,neutral,bert_finetuned
+[dummy 1098] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1099] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 1100] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1101] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1102] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 1103] Since when do you knit?,surprise,disgust,bert_finetuned
+[dummy 1104] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1105] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1106] I told you three times already!,anger,anger,bert_finetuned
+"[dummy 1107] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1108] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 1109] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 1110] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1111] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 1112] Okay.,neutral,neutral,bert_finetuned
+[dummy 1113] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1114] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1115] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1116] Okay.,neutral,neutral,bert_finetuned
+[dummy 1117] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1118] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1119] Okay.,neutral,neutral,bert_finetuned
+"[dummy 1120] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 1121] You read my diary?!,anger,disgust,bert_finetuned
+"[dummy 1122] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1123] Okay.,neutral,neutral,bert_finetuned
+[dummy 1124] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 1125] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1126] No way!,surprise,joy,bert_finetuned
+[dummy 1127] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1128] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1129] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1130] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1131] I got the job!,joy,joy,bert_finetuned
+[dummy 1132] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 1133] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1134] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 1135] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1136] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1137] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1138] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1139] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1140] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1141] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1142] Okay.,neutral,neutral,bert_finetuned
+[dummy 1143] No way!,surprise,fear,bert_finetuned
+[dummy 1144] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1145] I got the job!,joy,neutral,bert_finetuned
+[dummy 1146] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 1147] Get out of my apartment!,anger,joy,bert_finetuned
+[dummy 1148] No way!,surprise,surprise,bert_finetuned
+[dummy 1149] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 1150] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 1151] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1152] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1153] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1154] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1155] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 1156] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 1157] I told you three times already!,anger,fear,bert_finetuned
+[dummy 1158] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 1159] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 1160] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1161] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1162] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 1163] What was that noise?,fear,neutral,bert_finetuned
+[dummy 1164] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1165] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1166] Okay.,neutral,neutral,bert_finetuned
+[dummy 1167] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1168] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1169] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1170] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 1171] Okay.,neutral,neutral,bert_finetuned
+[dummy 1172] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1173] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1174] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1175] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1176] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1177] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1178] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1179] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1180] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1181] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 1182] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1183] Since when do you knit?,surprise,surprise,bert_finetuned
+"[dummy 1184] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1185] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1186] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 1187] Oh, I love you guys!",joy,joy,bert_finetuned
+"[dummy 1188] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1189] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1190] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 1191] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 1192] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 1193] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 1194] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1195] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1196] Since when do you knit?,surprise,joy,bert_finetuned
+[dummy 1197] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1198] Okay.,neutral,disgust,bert_finetuned
+[dummy 1199] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1200] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1201] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 1202] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 1203] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1204] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 1205] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1206] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 1207] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 1208] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 1209] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1210] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 1211] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1212] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1213] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1214] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1215] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1216] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 1217] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1218] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1219] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1220] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 1221] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1222] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1223] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 1224] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1225] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 1226] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1227] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 1228] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1229] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1230] I got the job!,joy,joy,bert_finetuned
+[dummy 1231] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 1232] No way!,surprise,fear,bert_finetuned
+[dummy 1233] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1235] The keys are on the counter.,neutral,sadness,bert_finetuned
+[dummy 1234] Please don't make me go in there.,fear,neutral,bert_finetuned
+[dummy 1236] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1237] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1238] Okay.,neutral,neutral,bert_finetuned
+[dummy 1239] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1240] I got the job!,joy,joy,bert_finetuned
+[dummy 1241] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 1242] Okay.,neutral,sadness,bert_finetuned
+[dummy 1243] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1244] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1245] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1246] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1247] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1248] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1249] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1250] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1251] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1252] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1253] Okay.,neutral,neutral,bert_finetuned
+[dummy 1254] No way!,surprise,fear,bert_finetuned
+[dummy 1255] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1256] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1257] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1258] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 1259] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1260] Get out of my apartment!,anger,anger,bert_finetuned
+"[dummy 1261] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1262] You're getting married?!,surprise,disgust,bert_finetuned
+[dummy 1263] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1264] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1265] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1266] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 1267] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 1268] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1269] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 1270] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1271] What was that noise?,fear,neutral,bert_finetuned
+[dummy 1272] Okay.,neutral,anger,bert_finetuned
+[dummy 1273] Nobody even remembered.,sadness,disgust,bert_finetuned
+[dummy 1274] He didn't even say goodbye.,sadness,disgust,bert_finetuned
+[dummy 1275] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1276] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 1277] He didn't even say goodbye.,sadness,surprise,bert_finetuned
+[dummy 1278] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1279] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 1280] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 1281] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1282] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 1283] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 1284] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1285] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1286] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1287] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 1288] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1289] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1290] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1291] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1292] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 1293] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1294] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1295] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1296] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1297] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1298] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1299] You read my diary?!,anger,joy,bert_finetuned
+[dummy 1300] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 1301] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1302] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1303] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1304] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 1305] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1306] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1307] Okay.,neutral,neutral,bert_finetuned
+[dummy 1308] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 1309] No way!,surprise,disgust,bert_finetuned
+[dummy 1310] Okay.,neutral,neutral,bert_finetuned
+[dummy 1311] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1312] No way!,surprise,surprise,bert_finetuned
+[dummy 1313] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1314] Get out of my apartment!,anger,anger,bert_finetuned
+"[dummy 1315] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 1316] I got the job!,joy,joy,bert_finetuned
+[dummy 1317] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1318] Okay.,neutral,anger,bert_finetuned
+[dummy 1319] Okay.,neutral,neutral,bert_finetuned
+[dummy 1320] No way!,surprise,neutral,bert_finetuned
+[dummy 1321] The keys are on the counter.,neutral,anger,bert_finetuned
+[dummy 1322] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1323] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1324] Okay.,neutral,surprise,bert_finetuned
+[dummy 1325] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1326] The keys are on the counter.,neutral,fear,bert_finetuned
+[dummy 1327] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1328] Okay.,neutral,joy,bert_finetuned
+[dummy 1329] I can't even look at that.,disgust,anger,bert_finetuned
+"[dummy 1330] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1331] The keys are on the counter.,neutral,disgust,bert_finetuned
+"[dummy 1332] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1333] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 1334] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 1335] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1336] Okay.,neutral,neutral,bert_finetuned
+[dummy 1337] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1338] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1339] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 1340] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 1341] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1342] Okay.,neutral,neutral,bert_finetuned
+[dummy 1343] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1344] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1345] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 1346] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 1347] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 1348] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 1349] Are you kidding me right now?,anger,sadness,bert_finetuned
+[dummy 1350] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1351] What was that noise?,fear,surprise,bert_finetuned
+[dummy 1352] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1353] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1354] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1355] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1356] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 1357] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1358] I got the job!,joy,neutral,bert_finetuned
+[dummy 1359] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1360] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1361] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 1362] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1363] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1364] No way!,surprise,surprise,bert_finetuned
+[dummy 1365] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 1366] Is this seat taken?,neutral,sadness,bert_finetuned
+"[dummy 1367] Oh gross, is that from last week?",disgust,anger,bert_finetuned
+[dummy 1368] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 1369] The keys are on the counter.,neutral,fear,bert_finetuned
+[dummy 1370] Okay.,neutral,neutral,bert_finetuned
+[dummy 1371] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1372] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1373] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1374] Get out of my apartment!,anger,fear,bert_finetuned
+[dummy 1375] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1376] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1377] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1378] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 1379] Since when do you knit?,surprise,surprise,bert_finetuned
+"[dummy 1380] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1381] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1382] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1383] The keys are on the counter.,neutral,disgust,bert_finetuned
+[dummy 1384] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 1385] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1386] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 1387] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1388] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 1389] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1390] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 1391] That is so not fair!,anger,joy,bert_finetuned
+[dummy 1392] Okay.,neutral,anger,bert_finetuned
+[dummy 1393] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 1394] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1395] No way!,surprise,surprise,bert_finetuned
+[dummy 1396] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1397] Okay.,neutral,neutral,bert_finetuned
+[dummy 1398] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1399] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1400] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1401] I got the job!,joy,surprise,bert_finetuned
+[dummy 1402] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1403] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1404] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1405] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1406] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1407] I got the job!,joy,joy,bert_finetuned
+"[dummy 1408] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 1409] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1410] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1411] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 1412] What was that noise?,fear,sadness,bert_finetuned
+[dummy 1413] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1414] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1415] So what time is the meeting?,neutral,disgust,bert_finetuned
+[dummy 1416] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1417] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1418] No way!,surprise,neutral,bert_finetuned
+[dummy 1419] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 1420] He said he'd call tomorrow.,neutral,joy,bert_finetuned
+[dummy 1421] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 1422] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1423] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 1424] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1425] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1426] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1427] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1428] Okay.,neutral,neutral,bert_finetuned
+[dummy 1429] No way!,surprise,surprise,bert_finetuned
+[dummy 1430] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1431] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1432] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 1433] What was that noise?,fear,surprise,bert_finetuned
+"[dummy 1434] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 1435] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 1436] We're going to Vegas!,joy,disgust,bert_finetuned
+"[dummy 1437] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1438] I told you three times already!,anger,sadness,bert_finetuned
+[dummy 1439] I guess it's over then.,sadness,disgust,bert_finetuned
+[dummy 1440] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 1441] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 1442] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 1443] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 1444] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 1445] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 1446] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1447] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1448] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1449] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 1450] Okay.,neutral,sadness,bert_finetuned
+[dummy 1451] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1452] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1453] Okay.,neutral,fear,bert_finetuned
+[dummy 1454] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1455] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1456] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1457] I got the job!,joy,joy,bert_finetuned
+[dummy 1458] He said he'd call tomorrow.,neutral,anger,bert_finetuned
+[dummy 1459] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1460] Since when do you knit?,surprise,joy,bert_finetuned
+[dummy 1461] No way!,surprise,joy,bert_finetuned
+[dummy 1462] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1463] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1464] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1465] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1466] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 1467] Oh, I love you guys!",joy,joy,bert_finetuned
+"[dummy 1468] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1469] Okay.,neutral,neutral,bert_finetuned
+[dummy 1470] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1471] Okay.,neutral,neutral,bert_finetuned
+[dummy 1472] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1473] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1474] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1475] Okay.,neutral,neutral,bert_finetuned
+[dummy 1476] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1477] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 1478] This is the best day ever!,joy,disgust,bert_finetuned
+[dummy 1479] Okay.,neutral,neutral,bert_finetuned
+[dummy 1480] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1481] No way!,surprise,surprise,bert_finetuned
+[dummy 1482] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1483] This is the best day ever!,joy,anger,bert_finetuned
+[dummy 1484] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 1485] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 1486] So what time is the meeting?,neutral,anger,bert_finetuned
+[dummy 1487] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1488] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1489] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1490] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 1491] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1492] No way!,surprise,surprise,bert_finetuned
+[dummy 1493] Okay.,neutral,neutral,bert_finetuned
+[dummy 1494] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1495] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1496] I told you three times already!,anger,anger,bert_finetuned
+"[dummy 1497] Wait, what?!",surprise,sadness,bert_finetuned
+[dummy 1498] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 1499] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1500] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1501] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 1502] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1503] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1504] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1505] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1506] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1507] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1508] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1509] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1510] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 1511] Okay.,neutral,neutral,bert_finetuned
+[dummy 1512] I got the job!,joy,joy,bert_finetuned
+[dummy 1513] Okay.,neutral,neutral,bert_finetuned
+[dummy 1514] Okay.,neutral,neutral,bert_finetuned
+[dummy 1515] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1516] You put ketchup on that?,disgust,anger,bert_finetuned
+[dummy 1517] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1518] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1519] Get out of my apartment!,anger,disgust,bert_finetuned
+"[dummy 1520] Ew, that is disgusting.",disgust,fear,bert_finetuned
+[dummy 1521] I got the job!,joy,surprise,bert_finetuned
+[dummy 1522] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1523] Is this seat taken?,neutral,joy,bert_finetuned
+"[dummy 1524] Oh gross, is that from last week?",disgust,fear,bert_finetuned
+[dummy 1525] Okay.,neutral,neutral,bert_finetuned
+[dummy 1526] Okay.,neutral,neutral,bert_finetuned
+[dummy 1527] Okay.,neutral,neutral,bert_finetuned
+[dummy 1528] Since when do you knit?,surprise,disgust,bert_finetuned
+[dummy 1529] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1530] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1531] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 1532] I got the job!,joy,joy,bert_finetuned
+[dummy 1533] I can't even look at that.,disgust,anger,bert_finetuned
+[dummy 1534] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 1535] I got the job!,joy,disgust,bert_finetuned
+[dummy 1536] I got the job!,joy,joy,bert_finetuned
+[dummy 1537] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1538] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 1539] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1540] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1541] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1542] The keys are on the counter.,neutral,anger,bert_finetuned
+[dummy 1543] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1544] He said he'd call tomorrow.,neutral,joy,bert_finetuned
+[dummy 1545] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1546] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 1547] Is this seat taken?,neutral,sadness,bert_finetuned
+"[dummy 1548] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 1549] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1550] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1551] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1552] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1553] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 1554] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1555] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+"[dummy 1556] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1557] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 1558] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1559] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 1560] We're going to Vegas!,joy,joy,bert_finetuned
+"[dummy 1561] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1562] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1563] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 1564] Okay.,neutral,neutral,bert_finetuned
+[dummy 1565] I just really miss her.,sadness,fear,bert_finetuned
+[dummy 1566] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1567] No way!,surprise,surprise,bert_finetuned
+[dummy 1568] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1569] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+"[dummy 1570] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1571] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 1572] I got the job!,joy,anger,bert_finetuned
+[dummy 1573] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 1574] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1575] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1576] We're going to Vegas!,joy,disgust,bert_finetuned
+[dummy 1577] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1578] Wait, what?!",surprise,joy,bert_finetuned
+[dummy 1579] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 1580] No way!,surprise,surprise,bert_finetuned
+[dummy 1581] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1582] Okay.,neutral,surprise,bert_finetuned
+[dummy 1583] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 1584] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 1585] He said he'd call tomorrow.,neutral,joy,bert_finetuned
+[dummy 1586] Okay.,neutral,neutral,bert_finetuned
+[dummy 1587] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1588] I just really miss her.,sadness,anger,bert_finetuned
+[dummy 1589] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1590] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1591] No way!,surprise,anger,bert_finetuned
+[dummy 1592] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1593] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1594] The keys are on the counter.,neutral,disgust,bert_finetuned
+[dummy 1595] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1596] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 1597] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1598] Okay.,neutral,neutral,bert_finetuned
+[dummy 1599] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1600] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1601] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1602] He didn't even say goodbye.,sadness,surprise,bert_finetuned
+[dummy 1603] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 1604] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1605] Okay.,neutral,neutral,bert_finetuned
+[dummy 1606] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1607] Are you kidding me right now?,anger,surprise,bert_finetuned
+[dummy 1608] I got the job!,joy,joy,bert_finetuned
+"[dummy 1609] Ew, that is disgusting.",disgust,neutral,bert_finetuned
+[dummy 1610] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1611] Okay.,neutral,neutral,bert_finetuned
+[dummy 1612] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1613] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1614] I got the job!,joy,neutral,bert_finetuned
+[dummy 1615] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1616] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 1617] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1618] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1619] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 1620] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1621] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1622] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1623] I'll grab the coffee.,neutral,joy,bert_finetuned
+[dummy 1624] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1625] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1626] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1627] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1628] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1629] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1630] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 1631] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1632] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 1633] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 1634] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1635] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1636] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1637] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 1638] I just really miss her.,sadness,anger,bert_finetuned
+[dummy 1639] I'll grab the coffee.,neutral,disgust,bert_finetuned
+[dummy 1640] Okay.,neutral,neutral,bert_finetuned
+[dummy 1641] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 1642] You're getting married?!,surprise,anger,bert_finetuned
+[dummy 1643] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1644] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 1645] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1646] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1647] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1648] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1649] Okay.,neutral,neutral,bert_finetuned
+"[dummy 1650] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 1651] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 1652] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1653] That is so not fair!,anger,anger,bert_finetuned
+"[dummy 1654] Oh, I love you guys!",joy,surprise,bert_finetuned
+[dummy 1655] I got the job!,joy,fear,bert_finetuned
+[dummy 1656] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1657] He didn't even say goodbye.,sadness,fear,bert_finetuned
+[dummy 1658] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 1659] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 1660] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 1661] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1662] Nobody even remembered.,sadness,disgust,bert_finetuned
+[dummy 1663] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1664] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 1665] I just really miss her.,sadness,fear,bert_finetuned
+[dummy 1666] Okay.,neutral,neutral,bert_finetuned
+[dummy 1667] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 1668] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1669] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1670] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1671] I got the job!,joy,joy,bert_finetuned
+[dummy 1672] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1673] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1674] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1675] No way!,surprise,surprise,bert_finetuned
+[dummy 1676] Okay.,neutral,disgust,bert_finetuned
+[dummy 1677] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1678] Are you kidding me right now?,anger,joy,bert_finetuned
+[dummy 1679] You're getting married?!,surprise,fear,bert_finetuned
+"[dummy 1680] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1681] I got the job!,joy,joy,bert_finetuned
+"[dummy 1682] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1683] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1684] I got the job!,joy,joy,bert_finetuned
+"[dummy 1685] Wait, what?!",surprise,sadness,bert_finetuned
+[dummy 1686] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1687] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1688] You put ketchup on that?,disgust,joy,bert_finetuned
+"[dummy 1689] Ew, that is disgusting.",disgust,neutral,bert_finetuned
+[dummy 1690] I told you three times already!,anger,neutral,bert_finetuned
+"[dummy 1691] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1692] Okay.,neutral,neutral,bert_finetuned
+[dummy 1693] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1694] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1695] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1696] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1697] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 1698] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1699] Okay.,neutral,fear,bert_finetuned
+[dummy 1700] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 1701] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1702] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1703] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1704] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 1705] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1706] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1707] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1708] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 1709] I'm really scared she'll find out.,fear,disgust,bert_finetuned
+"[dummy 1710] Oh gross, is that from last week?",disgust,anger,bert_finetuned
+[dummy 1711] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1712] No way!,surprise,surprise,bert_finetuned
+[dummy 1713] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 1714] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1715] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1716] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1717] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1718] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1719] No way!,surprise,surprise,bert_finetuned
+[dummy 1720] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1721] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1722] I got the job!,joy,joy,bert_finetuned
+[dummy 1723] Is this seat taken?,neutral,anger,bert_finetuned
+"[dummy 1724] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1725] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1726] The keys are on the counter.,neutral,joy,bert_finetuned
+[dummy 1727] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 1728] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 1729] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1730] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1731] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1732] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 1733] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1734] I got the job!,joy,surprise,bert_finetuned
+[dummy 1735] I got the job!,joy,joy,bert_finetuned
+[dummy 1736] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 1737] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1738] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 1739] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1740] You put ketchup on that?,disgust,anger,bert_finetuned
+[dummy 1741] No way!,surprise,neutral,bert_finetuned
+[dummy 1742] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1743] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 1744] This is the best day ever!,joy,anger,bert_finetuned
+[dummy 1745] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1746] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1747] I got the job!,joy,joy,bert_finetuned
+[dummy 1748] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1749] I got the job!,joy,joy,bert_finetuned
+[dummy 1750] I just really miss her.,sadness,disgust,bert_finetuned
+[dummy 1751] That is so not fair!,anger,sadness,bert_finetuned
+[dummy 1752] What was that noise?,fear,neutral,bert_finetuned
+[dummy 1753] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1754] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1755] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1756] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1757] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 1758] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1759] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1760] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1761] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1762] I got the job!,joy,joy,bert_finetuned
+[dummy 1763] I just really miss her.,sadness,fear,bert_finetuned
+[dummy 1764] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1765] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1766] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1767] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1768] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1769] That is so not fair!,anger,sadness,bert_finetuned
+[dummy 1770] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1771] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1772] I'll grab the coffee.,neutral,surprise,bert_finetuned
+[dummy 1773] Okay.,neutral,neutral,bert_finetuned
+[dummy 1774] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1775] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1776] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1777] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1778] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 1779] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1780] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1781] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1782] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1783] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1784] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1785] We're going to Vegas!,joy,neutral,bert_finetuned
+"[dummy 1786] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 1787] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1788] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1789] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1790] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 1791] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 1792] No way!,surprise,fear,bert_finetuned
+[dummy 1793] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1794] No way!,surprise,disgust,bert_finetuned
+[dummy 1795] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 1796] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1797] I just really miss her.,sadness,surprise,bert_finetuned
+[dummy 1798] He said he'd call tomorrow.,neutral,anger,bert_finetuned
+[dummy 1799] I told you three times already!,anger,anger,bert_finetuned
+"[dummy 1800] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 1801] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 1802] Nobody even remembered.,sadness,surprise,bert_finetuned
+[dummy 1803] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1804] I got the job!,joy,joy,bert_finetuned
+[dummy 1805] Okay.,neutral,anger,bert_finetuned
+[dummy 1806] The keys are on the counter.,neutral,fear,bert_finetuned
+[dummy 1807] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1808] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1809] Okay.,neutral,neutral,bert_finetuned
+[dummy 1810] You put ketchup on that?,disgust,surprise,bert_finetuned
+"[dummy 1811] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1812] The keys are on the counter.,neutral,fear,bert_finetuned
+[dummy 1813] Okay.,neutral,neutral,bert_finetuned
+[dummy 1814] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1815] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 1816] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 1817] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1818] No way!,surprise,anger,bert_finetuned
+[dummy 1819] No way!,surprise,surprise,bert_finetuned
+[dummy 1820] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1821] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 1822] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1823] This is the best day ever!,joy,surprise,bert_finetuned
+[dummy 1824] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1825] Okay.,neutral,anger,bert_finetuned
+[dummy 1826] No way!,surprise,surprise,bert_finetuned
+[dummy 1827] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1828] You're getting married?!,surprise,anger,bert_finetuned
+[dummy 1829] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1830] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1831] We're going to Vegas!,joy,fear,bert_finetuned
+[dummy 1832] Okay.,neutral,neutral,bert_finetuned
+[dummy 1833] Okay.,neutral,disgust,bert_finetuned
+[dummy 1834] Okay.,neutral,anger,bert_finetuned
+[dummy 1835] I got the job!,joy,joy,bert_finetuned
+[dummy 1836] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1837] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1838] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1839] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1840] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1841] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 1842] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1843] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1844] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 1845] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1846] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1847] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 1848] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1849] I got the job!,joy,surprise,bert_finetuned
+[dummy 1850] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1851] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1852] Get out of my apartment!,anger,fear,bert_finetuned
+"[dummy 1853] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1854] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1855] You put ketchup on that?,disgust,joy,bert_finetuned
+[dummy 1856] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1857] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1858] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1859] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1860] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 1861] Since when do you knit?,surprise,neutral,bert_finetuned
+"[dummy 1862] Wait, what?!",surprise,sadness,bert_finetuned
+[dummy 1863] He didn't even say goodbye.,sadness,fear,bert_finetuned
+[dummy 1864] So what time is the meeting?,neutral,disgust,bert_finetuned
+[dummy 1865] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 1866] I got the job!,joy,neutral,bert_finetuned
+[dummy 1867] Okay.,neutral,neutral,bert_finetuned
+[dummy 1868] Okay.,neutral,neutral,bert_finetuned
+[dummy 1869] Okay.,neutral,neutral,bert_finetuned
+[dummy 1870] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 1871] I'll grab the coffee.,neutral,joy,bert_finetuned
+[dummy 1872] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 1873] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 1874] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1875] No way!,surprise,neutral,bert_finetuned
+[dummy 1876] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1877] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1878] Okay.,neutral,anger,bert_finetuned
+[dummy 1879] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1880] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1881] That is so not fair!,anger,anger,bert_finetuned
+[dummy 1882] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1883] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 1884] Okay.,neutral,neutral,bert_finetuned
+[dummy 1885] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1886] I'll grab the coffee.,neutral,anger,bert_finetuned
+[dummy 1887] I got the job!,joy,joy,bert_finetuned
+[dummy 1888] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 1889] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 1890] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 1891] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 1892] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1893] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 1894] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 1895] He said he'd call tomorrow.,neutral,anger,bert_finetuned
+[dummy 1896] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 1897] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 1898] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1899] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1900] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 1901] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 1902] No way!,surprise,surprise,bert_finetuned
+"[dummy 1903] Oh, I love you guys!",joy,surprise,bert_finetuned
+[dummy 1904] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1905] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1906] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1907] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1908] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1909] You're getting married?!,surprise,anger,bert_finetuned
+[dummy 1910] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1911] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 1912] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1913] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1914] Okay.,neutral,neutral,bert_finetuned
+[dummy 1915] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 1916] Okay.,neutral,neutral,bert_finetuned
+[dummy 1917] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 1918] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1919] I got the job!,joy,anger,bert_finetuned
+"[dummy 1920] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 1921] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 1922] I told you three times already!,anger,disgust,bert_finetuned
+[dummy 1923] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1924] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 1925] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 1926] Okay.,neutral,neutral,bert_finetuned
+[dummy 1927] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1928] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1929] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 1930] I got the job!,joy,joy,bert_finetuned
+[dummy 1931] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 1932] He didn't even say goodbye.,sadness,disgust,bert_finetuned
+[dummy 1933] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1934] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 1935] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1936] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1937] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 1938] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1939] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1940] Are you kidding me right now?,anger,fear,bert_finetuned
+[dummy 1941] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 1942] No way!,surprise,sadness,bert_finetuned
+"[dummy 1943] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 1944] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 1945] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1946] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1947] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1948] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1949] I told you three times already!,anger,anger,bert_finetuned
+[dummy 1950] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 1951] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 1952] Okay.,neutral,neutral,bert_finetuned
+[dummy 1953] I got the job!,joy,joy,bert_finetuned
+[dummy 1954] I got the job!,joy,surprise,bert_finetuned
+[dummy 1955] I got the job!,joy,joy,bert_finetuned
+[dummy 1956] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1957] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1958] Please don't make me go in there.,fear,neutral,bert_finetuned
+[dummy 1959] I got the job!,joy,disgust,bert_finetuned
+"[dummy 1960] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 1961] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1962] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 1963] I got the job!,joy,joy,bert_finetuned
+"[dummy 1964] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 1965] Since when do you knit?,surprise,anger,bert_finetuned
+[dummy 1966] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1967] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 1968] Okay.,neutral,neutral,bert_finetuned
+[dummy 1969] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1970] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1971] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1972] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 1973] I just really miss her.,sadness,disgust,bert_finetuned
+[dummy 1974] The keys are on the counter.,neutral,anger,bert_finetuned
+[dummy 1975] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 1976] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 1977] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 1978] You read my diary?!,anger,anger,bert_finetuned
+"[dummy 1979] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 1980] That is so not fair!,anger,joy,bert_finetuned
+[dummy 1981] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 1982] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1983] You read my diary?!,anger,neutral,bert_finetuned
+[dummy 1984] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 1985] Okay.,neutral,neutral,bert_finetuned
+[dummy 1986] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 1987] You read my diary?!,anger,anger,bert_finetuned
+[dummy 1988] Okay.,neutral,anger,bert_finetuned
+[dummy 1989] Okay.,neutral,joy,bert_finetuned
+[dummy 1990] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 1991] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 1992] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 1993] That is so not fair!,anger,neutral,bert_finetuned
+"[dummy 1994] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 1995] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 1996] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 1997] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 1998] I guess it's over then.,sadness,fear,bert_finetuned
+[dummy 1999] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2000] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 2001] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2002] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2003] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2004] No way!,surprise,surprise,bert_finetuned
+[dummy 2005] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2006] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2007] Okay.,neutral,neutral,bert_finetuned
+[dummy 2008] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2009] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 2010] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2011] I got the job!,joy,joy,bert_finetuned
+[dummy 2012] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2013] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2014] Okay.,neutral,neutral,bert_finetuned
+[dummy 2015] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2016] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2017] I got the job!,joy,neutral,bert_finetuned
+[dummy 2018] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2019] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 2020] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2021] Okay.,neutral,neutral,bert_finetuned
+[dummy 2022] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2023] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 2024] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2025] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 2026] Nobody even remembered.,sadness,surprise,bert_finetuned
+"[dummy 2027] Ew, that is disgusting.",disgust,sadness,bert_finetuned
+[dummy 2028] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 2029] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2030] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 2031] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2032] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2033] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2034] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 2035] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2036] Nobody even remembered.,sadness,disgust,bert_finetuned
+[dummy 2037] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 2038] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2039] He didn't even say goodbye.,sadness,anger,bert_finetuned
+[dummy 2040] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2041] Okay.,neutral,neutral,bert_finetuned
+[dummy 2042] I just really miss her.,sadness,anger,bert_finetuned
+"[dummy 2043] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2044] Okay.,neutral,neutral,bert_finetuned
+[dummy 2045] I got the job!,joy,neutral,bert_finetuned
+[dummy 2046] I can't even look at that.,disgust,fear,bert_finetuned
+[dummy 2047] Okay.,neutral,neutral,bert_finetuned
+[dummy 2048] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2049] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 2050] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2051] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2052] No way!,surprise,neutral,bert_finetuned
+[dummy 2053] He didn't even say goodbye.,sadness,surprise,bert_finetuned
+[dummy 2054] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2055] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 2056] I'm really scared she'll find out.,fear,disgust,bert_finetuned
+[dummy 2057] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2058] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 2059] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2060] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2061] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2062] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+"[dummy 2063] Wait, what?!",surprise,fear,bert_finetuned
+[dummy 2064] I got the job!,joy,surprise,bert_finetuned
+[dummy 2065] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2066] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2067] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2068] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2069] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2070] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2071] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 2072] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2073] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2074] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2075] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2076] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 2077] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2078] You read my diary?!,anger,fear,bert_finetuned
+[dummy 2079] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2080] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2081] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2082] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2083] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 2084] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2085] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 2086] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2087] I can't even look at that.,disgust,sadness,bert_finetuned
+[dummy 2088] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2089] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 2090] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2091] So what time is the meeting?,neutral,fear,bert_finetuned
+[dummy 2092] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 2093] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 2094] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2095] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 2096] You're getting married?!,surprise,anger,bert_finetuned
+[dummy 2097] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2098] Okay.,neutral,neutral,bert_finetuned
+[dummy 2099] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 2100] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2101] That is so not fair!,anger,surprise,bert_finetuned
+[dummy 2102] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2103] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2104] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2105] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 2106] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2107] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2108] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 2109] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2110] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2111] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 2112] That is so not fair!,anger,neutral,bert_finetuned
+"[dummy 2113] Oh gross, is that from last week?",disgust,disgust,bert_finetuned
+[dummy 2114] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2115] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 2116] Wait, what?!",surprise,disgust,bert_finetuned
+[dummy 2117] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2118] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 2119] You put ketchup on that?,disgust,surprise,bert_finetuned
+[dummy 2120] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2121] You're getting married?!,surprise,neutral,bert_finetuned
+[dummy 2122] I'll grab the coffee.,neutral,joy,bert_finetuned
+[dummy 2123] Are you kidding me right now?,anger,neutral,bert_finetuned
+[dummy 2124] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2125] He didn't even say goodbye.,sadness,fear,bert_finetuned
+[dummy 2126] Okay.,neutral,sadness,bert_finetuned
+[dummy 2127] I got the job!,joy,anger,bert_finetuned
+[dummy 2128] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2129] He said he'd call tomorrow.,neutral,anger,bert_finetuned
+[dummy 2130] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 2131] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 2132] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2133] Get out of my apartment!,anger,surprise,bert_finetuned
+[dummy 2134] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2135] Okay.,neutral,neutral,bert_finetuned
+[dummy 2136] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2137] I got the job!,joy,joy,bert_finetuned
+[dummy 2138] Okay.,neutral,disgust,bert_finetuned
+[dummy 2139] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2140] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2141] Nobody even remembered.,sadness,fear,bert_finetuned
+[dummy 2142] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 2143] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 2144] Okay.,neutral,sadness,bert_finetuned
+[dummy 2145] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 2146] Are you kidding me right now?,anger,surprise,bert_finetuned
+[dummy 2147] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2148] No way!,surprise,fear,bert_finetuned
+[dummy 2149] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 2150] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2151] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2152] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2153] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2154] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2155] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 2156] Oh, I love you guys!",joy,fear,bert_finetuned
+[dummy 2157] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2158] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2159] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2160] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2161] Okay.,neutral,neutral,bert_finetuned
+[dummy 2162] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2163] That is so not fair!,anger,surprise,bert_finetuned
+[dummy 2164] Okay.,neutral,neutral,bert_finetuned
+[dummy 2165] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2166] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 2167] Nobody even remembered.,sadness,sadness,bert_finetuned
+[dummy 2168] What if the plane goes down?,fear,surprise,bert_finetuned
+[dummy 2169] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2170] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2171] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2172] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2173] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2174] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 2175] I got the job!,joy,surprise,bert_finetuned
+[dummy 2176] Get out of my apartment!,anger,fear,bert_finetuned
+[dummy 2177] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 2178] Okay.,neutral,surprise,bert_finetuned
+[dummy 2179] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2180] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2181] I got the job!,joy,joy,bert_finetuned
+[dummy 2182] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2183] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2184] I'll grab the coffee.,neutral,joy,bert_finetuned
+[dummy 2185] I got the job!,joy,anger,bert_finetuned
+[dummy 2186] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2187] The keys are on the counter.,neutral,surprise,bert_finetuned
+[dummy 2188] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2189] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2190] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2191] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2192] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2193] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 2194] I got the job!,joy,joy,bert_finetuned
+[dummy 2195] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2196] He said he'd call tomorrow.,neutral,fear,bert_finetuned
+[dummy 2197] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 2198] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 2199] Are you kidding me right now?,anger,anger,bert_finetuned
+"[dummy 2200] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2201] Okay.,neutral,neutral,bert_finetuned
+[dummy 2202] I told you three times already!,anger,fear,bert_finetuned
+[dummy 2203] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2204] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2205] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2206] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2207] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2208] Okay.,neutral,neutral,bert_finetuned
+[dummy 2209] I got the job!,joy,disgust,bert_finetuned
+"[dummy 2210] Oh, I love you guys!",joy,joy,bert_finetuned
+"[dummy 2211] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 2212] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 2213] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2214] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2215] Okay.,neutral,neutral,bert_finetuned
+[dummy 2216] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2217] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 2218] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2219] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2220] Nobody even remembered.,sadness,anger,bert_finetuned
+[dummy 2221] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2222] Nobody even remembered.,sadness,joy,bert_finetuned
+[dummy 2223] No way!,surprise,anger,bert_finetuned
+[dummy 2224] Get out of my apartment!,anger,neutral,bert_finetuned
+"[dummy 2225] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2226] Okay.,neutral,neutral,bert_finetuned
+[dummy 2227] I guess it's over then.,sadness,joy,bert_finetuned
+[dummy 2228] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 2229] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2230] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2231] Okay.,neutral,neutral,bert_finetuned
+[dummy 2232] Okay.,neutral,neutral,bert_finetuned
+[dummy 2233] Get out of my apartment!,anger,joy,bert_finetuned
+[dummy 2234] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2235] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2236] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2237] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2238] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2239] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2240] I got the job!,joy,joy,bert_finetuned
+[dummy 2241] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2242] Are you kidding me right now?,anger,surprise,bert_finetuned
+[dummy 2243] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2244] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2245] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2246] Okay.,neutral,neutral,bert_finetuned
+[dummy 2247] You read my diary?!,anger,anger,bert_finetuned
+[dummy 2248] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2249] I got the job!,joy,neutral,bert_finetuned
+[dummy 2250] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 2251] I got the job!,joy,neutral,bert_finetuned
+[dummy 2252] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 2253] I got the job!,joy,surprise,bert_finetuned
+[dummy 2254] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 2255] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2256] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 2257] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2258] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 2259] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2260] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2261] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2262] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2263] Okay.,neutral,neutral,bert_finetuned
+[dummy 2264] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 2265] We're going to Vegas!,joy,joy,bert_finetuned
+"[dummy 2266] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2267] No way!,surprise,neutral,bert_finetuned
+[dummy 2268] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2269] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2270] The keys are on the counter.,neutral,anger,bert_finetuned
+"[dummy 2271] Oh, I love you guys!",joy,disgust,bert_finetuned
+[dummy 2272] I'll grab the coffee.,neutral,fear,bert_finetuned
+[dummy 2273] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2274] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2275] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2276] He said he'd call tomorrow.,neutral,disgust,bert_finetuned
+[dummy 2277] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 2278] No way!,surprise,joy,bert_finetuned
+[dummy 2279] I just really miss her.,sadness,neutral,bert_finetuned
+[dummy 2280] Is this seat taken?,neutral,surprise,bert_finetuned
+[dummy 2281] I guess it's over then.,sadness,neutral,bert_finetuned
+[dummy 2282] He didn't even say goodbye.,sadness,fear,bert_finetuned
+[dummy 2283] You read my diary?!,anger,anger,bert_finetuned
+"[dummy 2284] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2285] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2286] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2287] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 2288] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2289] You put ketchup on that?,disgust,anger,bert_finetuned
+[dummy 2290] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 2291] Get out of my apartment!,anger,sadness,bert_finetuned
+"[dummy 2292] Oh gross, is that from last week?",disgust,neutral,bert_finetuned
+[dummy 2293] I'm really scared she'll find out.,fear,surprise,bert_finetuned
+[dummy 2294] Okay.,neutral,disgust,bert_finetuned
+[dummy 2295] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2296] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 2297] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2298] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2299] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2300] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 2301] Nobody even remembered.,sadness,sadness,bert_finetuned
+"[dummy 2302] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2303] No way!,surprise,surprise,bert_finetuned
+[dummy 2304] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2305] No way!,surprise,surprise,bert_finetuned
+[dummy 2306] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2307] This is the best day ever!,joy,sadness,bert_finetuned
+[dummy 2308] I'll grab the coffee.,neutral,neutral,bert_finetuned
+"[dummy 2309] Oh, I love you guys!",joy,fear,bert_finetuned
+[dummy 2310] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 2311] Okay.,neutral,neutral,bert_finetuned
+[dummy 2312] The keys are on the counter.,neutral,sadness,bert_finetuned
+"[dummy 2313] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2314] Okay.,neutral,neutral,bert_finetuned
+"[dummy 2315] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2316] Are you kidding me right now?,anger,anger,bert_finetuned
+"[dummy 2317] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2318] You're getting married?!,surprise,fear,bert_finetuned
+[dummy 2319] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2320] Okay.,neutral,neutral,bert_finetuned
+[dummy 2321] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2322] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2323] Okay.,neutral,sadness,bert_finetuned
+[dummy 2324] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 2325] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2326] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 2327] No way!,surprise,surprise,bert_finetuned
+"[dummy 2328] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 2329] Okay.,neutral,neutral,bert_finetuned
+[dummy 2330] Since when do you knit?,surprise,surprise,bert_finetuned
+"[dummy 2331] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2332] Okay.,neutral,neutral,bert_finetuned
+[dummy 2333] Okay.,neutral,neutral,bert_finetuned
+[dummy 2334] Okay.,neutral,neutral,bert_finetuned
+[dummy 2335] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2336] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2337] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2338] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2339] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2340] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 2341] Okay.,neutral,neutral,bert_finetuned
+[dummy 2342] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2343] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2344] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2345] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2346] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2347] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 2348] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2349] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 2350] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2351] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2352] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2353] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2354] You read my diary?!,anger,anger,bert_finetuned
+[dummy 2355] Okay.,neutral,surprise,bert_finetuned
+"[dummy 2356] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2357] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 2358] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2359] No way!,surprise,joy,bert_finetuned
+[dummy 2360] You read my diary?!,anger,anger,bert_finetuned
+[dummy 2361] Since when do you knit?,surprise,neutral,bert_finetuned
+"[dummy 2362] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 2363] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2364] Okay.,neutral,neutral,bert_finetuned
+[dummy 2365] We're going to Vegas!,joy,fear,bert_finetuned
+"[dummy 2366] Oh, I love you guys!",joy,fear,bert_finetuned
+[dummy 2367] So what time is the meeting?,neutral,sadness,bert_finetuned
+[dummy 2368] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2369] Okay.,neutral,neutral,bert_finetuned
+[dummy 2370] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2371] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2372] I told you three times already!,anger,neutral,bert_finetuned
+[dummy 2373] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2374] I got the job!,joy,joy,bert_finetuned
+[dummy 2375] I'll grab the coffee.,neutral,surprise,bert_finetuned
+[dummy 2376] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2377] Okay.,neutral,neutral,bert_finetuned
+[dummy 2378] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 2379] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2380] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2381] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2382] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2383] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2384] Nobody even remembered.,sadness,fear,bert_finetuned
+"[dummy 2385] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2386] So what time is the meeting?,neutral,joy,bert_finetuned
+"[dummy 2387] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2388] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2389] I guess it's over then.,sadness,sadness,bert_finetuned
+[dummy 2390] No way!,surprise,surprise,bert_finetuned
+[dummy 2391] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 2392] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 2393] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 2394] We're going to Vegas!,joy,neutral,bert_finetuned
+"[dummy 2395] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 2396] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2397] I told you three times already!,anger,sadness,bert_finetuned
+[dummy 2398] You read my diary?!,anger,anger,bert_finetuned
+[dummy 2399] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2400] I told you three times already!,anger,joy,bert_finetuned
+[dummy 2401] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2402] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2403] I told you three times already!,anger,anger,bert_finetuned
+[dummy 2404] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 2405] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2406] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2407] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2408] Okay.,neutral,neutral,bert_finetuned
+[dummy 2409] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2410] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2411] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2412] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2413] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 2414] Ew, that is disgusting.",disgust,anger,bert_finetuned
+[dummy 2415] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2416] Is this seat taken?,neutral,joy,bert_finetuned
+[dummy 2417] Okay.,neutral,neutral,bert_finetuned
+[dummy 2418] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2419] I got the job!,joy,neutral,bert_finetuned
+[dummy 2420] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2421] I'm really scared she'll find out.,fear,disgust,bert_finetuned
+[dummy 2422] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2423] Is this seat taken?,neutral,fear,bert_finetuned
+[dummy 2424] We're going to Vegas!,joy,surprise,bert_finetuned
+[dummy 2425] So what time is the meeting?,neutral,anger,bert_finetuned
+[dummy 2426] Okay.,neutral,neutral,bert_finetuned
+[dummy 2427] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 2428] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 2429] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2430] I'll grab the coffee.,neutral,sadness,bert_finetuned
+[dummy 2431] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2432] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2433] He said he'd call tomorrow.,neutral,surprise,bert_finetuned
+[dummy 2434] I got the job!,joy,surprise,bert_finetuned
+[dummy 2435] I got the job!,joy,joy,bert_finetuned
+[dummy 2436] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2437] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2438] So what time is the meeting?,neutral,joy,bert_finetuned
+[dummy 2439] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2440] I just really miss her.,sadness,anger,bert_finetuned
+[dummy 2441] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2442] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2443] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2444] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2445] You're getting married?!,surprise,joy,bert_finetuned
+[dummy 2446] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2447] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2448] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2449] I'm really scared she'll find out.,fear,neutral,bert_finetuned
+[dummy 2450] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2451] The keys are on the counter.,neutral,anger,bert_finetuned
+[dummy 2452] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2453] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2454] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2455] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2456] I guess it's over then.,sadness,anger,bert_finetuned
+[dummy 2457] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2458] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2459] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2460] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2461] He didn't even say goodbye.,sadness,sadness,bert_finetuned
+[dummy 2462] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2463] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2464] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2465] I got the job!,joy,neutral,bert_finetuned
+[dummy 2466] Get out of my apartment!,anger,anger,bert_finetuned
+[dummy 2467] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2468] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2469] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2470] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+"[dummy 2471] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2472] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2473] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2474] That is so not fair!,anger,neutral,bert_finetuned
+[dummy 2475] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2476] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2477] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2478] You put ketchup on that?,disgust,neutral,bert_finetuned
+[dummy 2479] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2480] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2481] Okay.,neutral,neutral,bert_finetuned
+[dummy 2482] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2483] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 2484] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2485] He said he'd call tomorrow.,neutral,joy,bert_finetuned
+[dummy 2486] You read my diary?!,anger,anger,bert_finetuned
+[dummy 2487] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2488] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2489] This is the best day ever!,joy,disgust,bert_finetuned
+[dummy 2490] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2491] Is this seat taken?,neutral,disgust,bert_finetuned
+[dummy 2492] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 2493] Wait, what?!",surprise,surprise,bert_finetuned
+"[dummy 2494] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 2495] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2496] Get out of my apartment!,anger,anger,bert_finetuned
+"[dummy 2497] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2498] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2499] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2500] No way!,surprise,surprise,bert_finetuned
+"[dummy 2501] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2502] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 2503] That is so not fair!,anger,surprise,bert_finetuned
+[dummy 2504] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+[dummy 2505] I got the job!,joy,neutral,bert_finetuned
+[dummy 2506] Since when do you knit?,surprise,joy,bert_finetuned
+"[dummy 2507] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2508] Since when do you knit?,surprise,fear,bert_finetuned
+[dummy 2509] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2510] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2511] That is so not fair!,anger,disgust,bert_finetuned
+[dummy 2512] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 2513] I'll grab the coffee.,neutral,surprise,bert_finetuned
+[dummy 2514] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2515] Get out of my apartment!,anger,neutral,bert_finetuned
+[dummy 2516] Are you kidding me right now?,anger,disgust,bert_finetuned
+[dummy 2517] I got the job!,joy,neutral,bert_finetuned
+[dummy 2518] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2519] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2520] We're going to Vegas!,joy,neutral,bert_finetuned
+[dummy 2521] You read my diary?!,anger,disgust,bert_finetuned
+[dummy 2522] I got the job!,joy,joy,bert_finetuned
+[dummy 2523] Please don't make me go in there.,fear,surprise,bert_finetuned
+[dummy 2524] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2525] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2526] Okay.,neutral,neutral,bert_finetuned
+[dummy 2527] You read my diary?!,anger,surprise,bert_finetuned
+[dummy 2528] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2529] Is this seat taken?,neutral,sadness,bert_finetuned
+[dummy 2530] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2531] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 2532] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2533] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2534] Okay.,neutral,neutral,bert_finetuned
+[dummy 2535] I just really miss her.,sadness,sadness,bert_finetuned
+[dummy 2536] He said he'd call tomorrow.,neutral,sadness,bert_finetuned
+[dummy 2537] This is the best day ever!,joy,fear,bert_finetuned
+[dummy 2538] Since when do you knit?,surprise,surprise,bert_finetuned
+[dummy 2539] You read my diary?!,anger,joy,bert_finetuned
+[dummy 2540] I'll grab the coffee.,neutral,sadness,bert_finetuned
+"[dummy 2541] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 2542] He said he'd call tomorrow.,neutral,neutral,bert_finetuned
+[dummy 2543] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2544] The keys are on the counter.,neutral,neutral,bert_finetuned
+"[dummy 2545] Oh, I love you guys!",joy,surprise,bert_finetuned
+"[dummy 2546] Ew, that is disgusting.",disgust,disgust,bert_finetuned
+[dummy 2547] So what time is the meeting?,neutral,surprise,bert_finetuned
+[dummy 2548] I got the job!,joy,joy,bert_finetuned
+[dummy 2549] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2550] Okay.,neutral,neutral,bert_finetuned
+[dummy 2551] So what time is the meeting?,neutral,neutral,bert_finetuned
+"[dummy 2552] Oh, I love you guys!",joy,neutral,bert_finetuned
+[dummy 2553] Are you kidding me right now?,anger,surprise,bert_finetuned
+[dummy 2554] Okay.,neutral,neutral,bert_finetuned
+[dummy 2555] Okay.,neutral,neutral,bert_finetuned
+[dummy 2556] No way!,surprise,neutral,bert_finetuned
+[dummy 2557] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2558] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2559] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2560] I got the job!,joy,joy,bert_finetuned
+"[dummy 2561] Oh, I love you guys!",joy,joy,bert_finetuned
+[dummy 2562] I just really miss her.,sadness,joy,bert_finetuned
+[dummy 2563] Okay.,neutral,neutral,bert_finetuned
+[dummy 2564] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2565] Get out of my apartment!,anger,disgust,bert_finetuned
+[dummy 2566] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2567] No way!,surprise,joy,bert_finetuned
+[dummy 2568] I guess it's over then.,sadness,anger,bert_finetuned
+"[dummy 2569] Wait, what?!",surprise,neutral,bert_finetuned
+[dummy 2570] Nobody even remembered.,sadness,neutral,bert_finetuned
+[dummy 2571] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2572] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2573] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 2574] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2575] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2576] You're getting married?!,surprise,surprise,bert_finetuned
+[dummy 2577] You put ketchup on that?,disgust,sadness,bert_finetuned
+[dummy 2578] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2579] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2580] The keys are on the counter.,neutral,disgust,bert_finetuned
+[dummy 2581] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2582] The keys are on the counter.,neutral,neutral,bert_finetuned
+[dummy 2583] He didn't even say goodbye.,sadness,joy,bert_finetuned
+[dummy 2584] Get out of my apartment!,anger,sadness,bert_finetuned
+[dummy 2585] We're going to Vegas!,joy,joy,bert_finetuned
+[dummy 2586] Okay.,neutral,neutral,bert_finetuned
+"[dummy 2587] Wait, what?!",surprise,surprise,bert_finetuned
+[dummy 2588] Is this seat taken?,neutral,neutral,bert_finetuned
+[dummy 2589] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2590] Are you kidding me right now?,anger,fear,bert_finetuned
+[dummy 2591] Is this seat taken?,neutral,neutral,bert_finetuned
+"[dummy 2592] Oh gross, is that from last week?",disgust,anger,bert_finetuned
+[dummy 2593] This is the best day ever!,joy,neutral,bert_finetuned
+[dummy 2594] Are you kidding me right now?,anger,anger,bert_finetuned
+[dummy 2595] I can't even look at that.,disgust,neutral,bert_finetuned
+[dummy 2596] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2597] He didn't even say goodbye.,sadness,neutral,bert_finetuned
+"[dummy 2598] Wait, what?!",surprise,anger,bert_finetuned
+[dummy 2599] You put ketchup on that?,disgust,anger,bert_finetuned
+[dummy 2600] So what time is the meeting?,neutral,neutral,bert_finetuned
+[dummy 2601] Okay.,neutral,neutral,bert_finetuned
+[dummy 2602] That is so not fair!,anger,joy,bert_finetuned
+[dummy 2603] Okay.,neutral,neutral,bert_finetuned
+[dummy 2604] Is this seat taken?,neutral,anger,bert_finetuned
+[dummy 2605] This is the best day ever!,joy,joy,bert_finetuned
+[dummy 2606] We're going to Vegas!,joy,sadness,bert_finetuned
+[dummy 2607] I'll grab the coffee.,neutral,neutral,bert_finetuned
+[dummy 2608] Since when do you knit?,surprise,neutral,bert_finetuned
+[dummy 2609] That is so not fair!,anger,anger,bert_finetuned
+[dummy 2610] The keys are on the counter.,neutral,neutral,bert_finetuned
