@@ -1,0 +1,101 @@
+utterance,true_label,predicted_label,model_name
+Why do all you're coffee mugs have numbers on the bottom?,surprise,neutral,few_shot
+"Oh. That's so Monica can keep track. That way if one on them is missing, she can be like, Where's number 27?!'",anger,neutral,few_shot
+Y'know what?,neutral,neutral,few_shot
+"Come on, Lydia, you can do it.",neutral,joy,few_shot
+Push!,joy,joy,few_shot
+"Push 'em out, push 'em out, harder, harder.",joy,joy,few_shot
+"Push 'em out, push 'em out, way out!",joy,joy,few_shot
+"Let's get that ball and really move, hey, hey, ho, ho.",joy,joy,few_shot
+"Let's I was justyeah, right.",joy,neutral,few_shot
+Push!,joy,joy,few_shot
+Push!,joy,joy,few_shot
+Okay.,neutral,neutral,few_shot
+"Ross, didn't you say that there was an elevator in here?",neutral,anger,few_shot
+"Uhh, yes I did but there isn't. Okay, here we go.",sadness,neutral,few_shot
+"Okay, go left. Left! Left!",surprise,neutral,few_shot
+"Okay, y'know what? There is no more left, left!",anger,anger,few_shot
+"Oh okay, lift it straight up over your head!",anger,neutral,few_shot
+Straight up over your head!,anger,neutral,few_shot
+You can do it!,joy,joy,few_shot
+You can do it!,joy,joy,few_shot
+Okay.,neutral,neutral,few_shot
+You got it?,neutral,neutral,few_shot
+"Oh, okay, I get it.",neutral,neutral,few_shot
+"No wait, look. Look! I'm sorry, it's just I've never even",fear,fear,few_shot
+Howard's the,neutral,neutral,few_shot
+"Yes but too me he's just, man.",neutral,neutral,few_shot
+"Okay, fine, whatever. Welcome to the building.",anger,anger,few_shot
+"Ugh, can you believe that guy!",disgust,disgust,few_shot
+Yeah. I really like his glasses.,neutral,neutral,few_shot
+Ohh!,surprise,surprise,few_shot
+What?,neutral,surprise,few_shot
+It kicked! I think the baby kicked!,surprise,joy,few_shot
+Oh my God!,surprise,surprise,few_shot
+"Oh no wait, oh no, the elastic on my underwear busted.",neutral,sadness,few_shot
+Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!,fear,fear,few_shot
+"Oh wait, Joey, you can't go like that! You stink!",disgust,disgust,few_shot
+"Look, I know I feel asleep before I could shower and now I don't have time!",anger,anger,few_shot
+"They're just ten blocks away, if I run, I can make it.",neutral,neutral,few_shot
+You're coming on to the entire room! I'm Chandler.,anger,neutral,few_shot
+Hi.,neutral,neutral,few_shot
+Hi.,neutral,neutral,few_shot
+You mind if I,neutral,neutral,few_shot
+"No, please.",neutral,neutral,few_shot
+"So uh, what are you in for?",neutral,neutral,few_shot
+I talk in my sleep.,neutral,neutral,few_shot
+"What a coincidence, I listen in my sleep.",neutral,joy,few_shot
+So why don't you give me your number?,neutral,neutral,few_shot
+Previously on Friends.,neutral,neutral,few_shot
+I don't know exactly. It's-it's sorta like wrestling.,neutral,neutral,few_shot
+Oh?!,surprise,surprise,few_shot
+"Yeah, but without the costumes.",neutral,neutral,few_shot
+Oh.,neutral,neutral,few_shot
+"And it's not fake, it's totally brutal.",neutral,neutral,few_shot
+"Yeah, it's two guys in a ring, and the rules are: ""They're",neutral,neutral,few_shot
+"So you can like, bite, and pull people's hair and stuff?",surprise,surprise,few_shot
+"Yeah, anything goes, except ah, eye gouging and fish hooking.",neutral,neutral,few_shot
+What's fish hooking?,surprise,neutral,few_shot
+"Huh, what's fish hooking... Thanks man, that would have been really hard to describe. What is that taste?",neutral,disgust,few_shot
+"What? My hands are totally clean, I just gave the duck a bath.",neutral,neutral,few_shot
+"Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.",sadness,joy,few_shot
+"Well, that makes me feel so good.",joy,joy,few_shot
+It was just so awkward and bumpy.,neutral,disgust,few_shot
+Bumpy?,surprise,surprise,few_shot
+"Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.",neutral,neutral,few_shot
+And uh maybe you have to get used to it.,neutral,neutral,few_shot
+"Well there really wasn't much time to get used to it, you know what I mean?",joy,neutral,few_shot
+Coming through! Oh! Coming through! Oh! Hello! Hi! No! Right! Coming through!,fear,fear,few_shot
+"Oh well, it's not so bad.",neutral,neutral,few_shot
+"Yeah, most of the damage is pretty mostly contained in the bedrooms.",sadness,neutral,few_shot
+Oh!,surprise,surprise,few_shot
+My God!,surprise,surprise,few_shot
+"Hey buddy, do you think I can borrow your uniform this Thursday?",neutral,neutral,few_shot
+Excuse me?,surprise,surprise,few_shot
+Joey! He's working! You would look,anger,anger,few_shot
+"Oh, how bad is it?",sadness,sadness,few_shot
+"Oh, it's bad. It's really bad. The only thing in there that isn't burned is an ass. Which I do",sadness,sadness,few_shot
+How's your room Rach?,neutral,neutral,few_shot
+Everything's ruined. My bed. My clothes. Look at my favorite blue sweater.,sadness,sadness,few_shot
+Isn't that mine?,neutral,surprise,few_shot
+Fine! I'm sorry for your loss!,anger,anger,few_shot
+"So uh, you're not gonna be able to live here for a while, you ladies have a place to stay?",neutral,neutral,few_shot
+"Wow! Oh-okay, look pal, I am",joy,surprise,few_shot
+"Yes, they can stay with us.",neutral,neutral,few_shot
+Have you figured out what started the fire Mr. Fireman?,neutral,neutral,few_shot
+There's just so much pressure.,anger,sadness,few_shot
+"I mean no offense, but what you guys do is very different.",neutral,neutral,few_shot
+I don't know if you'd understand.,neutral,neutral,few_shot
+"Yeah, none of us have to deal with pressure at our jobs.",neutral,anger,few_shot
+"Well Phoebe, we gotta do something!",sadness,fear,few_shot
+I mean there's no way Joey's gonna make it in time.,fear,sadness,few_shot
+So I'm gonna go through the hotel and see if there's any other weddings going on.,neutral,neutral,few_shot
+Okay. Oh but don't tell them Monica's pregnant because they frown on that.,neutral,neutral,few_shot
+Okay.,neutral,neutral,few_shot
+"What's all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",anger,anger,few_shot
+"Ross, we can handle this.",neutral,neutral,few_shot
+"Well, apparently not, and I can't just stand by and watch two people I care about very much be hurt over something that is so silly.",sadness,anger,few_shot
+"I mean, enough of the silliness!",anger,anger,few_shot
+"Well, why don't you tell her to stop being silly!",anger,anger,few_shot
+Okay-okay!,anger,neutral,few_shot
+"Two very good points, look I've known you both a long time, and I've never seen either of you one/millionth as happy as you've been since you've got together.",sadness,joy,few_shot
