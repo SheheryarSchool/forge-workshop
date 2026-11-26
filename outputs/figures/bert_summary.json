@@ -1,0 +1,12 @@
+{
+  "model": "bert_finetuned",
+  "pretrained_model": "bert-base-uncased",
+  "test_accuracy": 0.6386973180076628,
+  "test_macro_f1": 0.4350461455220395,
+  "training_seconds": 452.49492359161377,
+  "best_epoch": 4,
+  "epochs": 4,
+  "batch_size": 32,
+  "learning_rate": 2e-05,
+  "parameters": 109487623
+}

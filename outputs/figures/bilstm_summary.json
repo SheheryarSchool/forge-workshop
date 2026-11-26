@@ -1,0 +1,11 @@
+{
+  "model": "bilstm",
+  "test_accuracy": 0.6042145593869732,
+  "test_macro_f1": 0.3367591583119647,
+  "training_seconds": 18.226685047149658,
+  "best_epoch": 4,
+  "epochs": 10,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "parameters": 955527
+}
